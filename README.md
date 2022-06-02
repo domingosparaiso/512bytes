@@ -3,7 +3,7 @@ Concurso Software de 512 bytes
 
 O concurso aconteceu em 2002, 9º lugar com o programa "Game".
 
-As regras eram simples, faça uma proposta informando como funciona a sua solução e codifique o programa usando, no máximo, 512 bytes de fonte. Escrevi os programas em C, haviam opções como C++, Pascal e Java. Depois de saber qual era o compilador (Borland Turbo C) e o ambiente onde seriam executados os programas (MS-DOS) foi partir para o planejamento.
+As regras eram simples, faça uma proposta informando como funciona a sua solução e codifique o programa usando, no máximo, 512 bytes de fonte. Escrevi os programas em C, haviam opções como C++, Pascal e Java. Depois de saber qual era o compilador (Borland Turbo C) e o ambiente onde seriam executados os programas (MS-DOS) foi partir para o planejamento. Para cada proposta existem dois arquivos fonte, um identado e outro compactado para poupar espaço e fazer com que caiba dentro do limite de 512 bytes.
 
 Game: O programa funciona de forma parecida com o jogo Tron onde dois jogadores controlam a direção de dois veículos que se movem deixando rastros por onde passam. As regras são simples, os veículos não param nem variam de velocidade, as curvas são sempre em 90° e perde quem tocar em algum rastro ou nas paredes (tela inteira em modo texto, 80x25).
 Os jogadores eram representados por carinhas (uma escura e outra clara) os rastros possuiam dois tons diferentes, após uma colisão apenas o vencedor continuava na tela.
